@@ -1,5 +1,5 @@
 const SuperQuality = () => {
-  return <div></div>;
+  return <div>SuperQuality</div>;
 };
 
 export default SuperQuality;
