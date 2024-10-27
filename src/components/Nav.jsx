@@ -21,7 +21,9 @@ const Nav = () => {
           ))}
         </ul>
 
-        <button className="mr-2">Sign In / Explore Now</button>
+        <button className="mr-2 text-[1rem] max-lg:text-[14px] font-bold">
+          Sign In / Explore Now
+        </button>
 
         <div className="hidden max-lg:block">
           <img src={hamburger} alt="Hamburger" width={25} height={25}></img>
