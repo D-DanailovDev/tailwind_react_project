@@ -41,10 +41,30 @@ export const statistics = [
 ];
 
 export const products = [
-  { imgUrl: shoe4, name: "Nike Air Jordan-01", price: "$200.20" },
-  { imgUrl: shoe5, name: "Nike Air Jordan-10", price: "$210.20" },
-  { imgUrl: shoe6, name: "Nike Air Jordan-100", price: "$220.20" },
-  { imgUrl: shoe7, name: "Nike Air Jordan-001", price: "$230.20" },
+  {
+    imgUrl: shoe4,
+    name: "Nike Air Jordan-01",
+    price: "$200.20",
+    rating: "5.0",
+  },
+  {
+    imgUrl: shoe5,
+    name: "Nike Air Jordan-10",
+    price: "$210.20",
+    rating: "4.7",
+  },
+  {
+    imgUrl: shoe6,
+    name: "Nike Air Jordan-100",
+    price: "$220.20",
+    rating: "4.9",
+  },
+  {
+    imgUrl: shoe7,
+    name: "Nike Air Jordan-001",
+    price: "$230.20",
+    rating: "4.1",
+  },
 ];
 
 export const services = [
